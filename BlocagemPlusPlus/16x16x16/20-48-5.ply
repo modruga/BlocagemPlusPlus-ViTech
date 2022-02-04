@@ -1,0 +1,29 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 15
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+320 768 95 158 137 118
+320 769 95 131 113 96
+321 768 95 92 82 76
+321 769 95 101 93 88
+320 770 95 116 97 78
+320 771 95 110 98 87
+321 770 95 133 119 110
+321 771 95 143 126 113
+322 768 95 88 84 86
+322 769 95 124 115 111
+323 768 95 152 139 130
+323 769 95 156 143 137
+322 770 95 155 140 130
+320 772 95 117 107 101
+320 773 95 122 114 110

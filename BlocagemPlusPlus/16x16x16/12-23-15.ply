@@ -1,0 +1,30 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 16
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+207 383 248 73 60 42
+207 383 249 87 77 64
+207 383 250 94 86 76
+207 383 251 98 91 83
+206 383 252 95 87 79
+206 383 253 95 86 78
+207 382 252 98 90 82
+207 382 253 94 85 76
+207 383 252 96 89 82
+207 383 253 94 85 77
+206 383 254 91 82 76
+206 383 255 81 70 64
+207 382 254 91 80 71
+207 382 255 95 83 74
+207 383 254 87 78 69
+207 383 255 80 68 61

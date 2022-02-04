@@ -1,0 +1,748 @@
+3-0-0.ply
+Vetor de Movimento: 0 131 756
+Diferencial: 0 131 756
+
+3-1-0.ply
+Vetor de Movimento: 459 533 219
+Diferencial: 459 533 219
+
+3-2-0.ply
+Vetor de Movimento: 47 679 679
+Diferencial: 47 679 679
+
+4-2-0.ply
+Vetor de Movimento: 935 383 519
+Diferencial: 888 296 160
+
+3-3-0.ply
+Vetor de Movimento: 831 34 53
+Diferencial: 831 34 53
+
+4-3-0.ply
+Vetor de Movimento: 530 671 7
+Diferencial: 301 637 46
+
+3-4-0.ply
+Vetor de Movimento: 383 66 417
+Diferencial: 383 66 417
+
+4-4-0.ply
+Vetor de Movimento: 687 589 931
+Diferencial: 304 523 514
+
+2-5-0.ply
+Vetor de Movimento: 847 527 92
+Diferencial: 847 527 92
+
+3-5-0.ply
+Vetor de Movimento: 654 416 701
+Diferencial: 193 111 609
+
+4-5-0.ply
+Vetor de Movimento: 911 762 262
+Diferencial: 718 651 347
+
+2-6-0.ply
+Vetor de Movimento: 47 736 328
+Diferencial: 47 736 328
+
+3-6-0.ply
+Vetor de Movimento: 633 757 992
+Diferencial: 586 21 664
+
+2-7-0.ply
+Vetor de Movimento: 365 247 983
+Diferencial: 365 247 983
+
+3-7-0.ply
+Vetor de Movimento: 723 754 652
+Diferencial: 358 507 331
+
+2-8-0.ply
+Vetor de Movimento: 72 632 885
+Diferencial: 72 632 885
+
+3-8-0.ply
+Vetor de Movimento: 272 436 767
+Diferencial: 200 196 118
+
+4-8-0.ply
+Vetor de Movimento: 478 238 275
+Diferencial: 278 42 157
+
+2-9-0.ply
+Vetor de Movimento: 359 166 487
+Diferencial: 359 166 487
+
+3-9-0.ply
+Vetor de Movimento: 898 910 60
+Diferencial: 539 744 427
+
+2-10-0.ply
+Vetor de Movimento: 905 505 516
+Diferencial: 905 505 516
+
+3-10-0.ply
+Vetor de Movimento: 319 987 494
+Diferencial: 586 482 22
+
+2-11-0.ply
+Vetor de Movimento: 266 90 948
+Diferencial: 266 90 948
+
+3-11-0.ply
+Vetor de Movimento: 73 501 384
+Diferencial: 193 411 564
+
+3-0-1.ply
+Vetor de Movimento: 277 914 530
+Diferencial: 277 914 530
+
+4-0-1.ply
+Vetor de Movimento: 464 941 50
+Diferencial: 187 27 480
+
+1-1-1.ply
+Vetor de Movimento: 762 770 828
+Diferencial: 762 770 828
+
+3-1-1.ply
+Vetor de Movimento: 125 15 689
+Diferencial: 637 755 139
+
+4-1-1.ply
+Vetor de Movimento: 869 630 736
+Diferencial: 232 125 597
+
+3-2-1.ply
+Vetor de Movimento: 726 1000 889
+Diferencial: 726 1000 889
+
+4-2-1.ply
+Vetor de Movimento: 233 306 351
+Diferencial: 493 694 538
+
+3-3-1.ply
+Vetor de Movimento: 513 591 846
+Diferencial: 513 591 846
+
+4-3-1.ply
+Vetor de Movimento: 412 842 269
+Diferencial: 101 251 577
+
+3-4-1.ply
+Vetor de Movimento: 415 537 468
+Diferencial: 415 537 468
+
+4-4-1.ply
+Vetor de Movimento: 287 178 153
+Diferencial: 128 359 315
+
+2-5-1.ply
+Vetor de Movimento: 572 803 33
+Diferencial: 572 803 33
+
+3-5-1.ply
+Vetor de Movimento: 534 498 956
+Diferencial: 38 305 923
+
+4-5-1.ply
+Vetor de Movimento: 749 555 891
+Diferencial: 711 250 32
+
+5-5-1.ply
+Vetor de Movimento: 625 842 159
+Diferencial: 86 592 127
+
+2-6-1.ply
+Vetor de Movimento: 212 715 130
+Diferencial: 212 715 130
+
+3-6-1.ply
+Vetor de Movimento: 91 274 3
+Diferencial: 121 441 127
+
+4-6-1.ply
+Vetor de Movimento: 414 26 710
+Diferencial: 293 415 583
+
+5-6-1.ply
+Vetor de Movimento: 938 240 181
+Diferencial: 645 175 402
+
+1-7-1.ply
+Vetor de Movimento: 317 887 652
+Diferencial: 317 887 652
+
+2-7-1.ply
+Vetor de Movimento: 150 682 386
+Diferencial: 167 205 266
+
+3-7-1.ply
+Vetor de Movimento: 388 500 147
+Diferencial: 221 295 119
+
+4-7-1.ply
+Vetor de Movimento: 587 846 590
+Diferencial: 366 551 471
+
+5-7-1.ply
+Vetor de Movimento: 956 556 148
+Diferencial: 590 5 323
+
+1-8-1.ply
+Vetor de Movimento: 984 409 141
+Diferencial: 984 409 141
+
+2-8-1.ply
+Vetor de Movimento: 565 252 489
+Diferencial: 419 157 348
+
+3-8-1.ply
+Vetor de Movimento: 464 962 126
+Diferencial: 45 805 222
+
+4-8-1.ply
+Vetor de Movimento: 199 319 629
+Diferencial: 154 486 407
+
+5-8-1.ply
+Vetor de Movimento: 126 651 622
+Diferencial: 28 165 215
+
+1-9-1.ply
+Vetor de Movimento: 803 248 476
+Diferencial: 803 248 476
+
+2-9-1.ply
+Vetor de Movimento: 389 203 28
+Diferencial: 414 45 448
+
+3-9-1.ply
+Vetor de Movimento: 902 426 142
+Diferencial: 488 381 306
+
+4-9-1.ply
+Vetor de Movimento: 948 410 131
+Diferencial: 460 29 175
+
+5-9-1.ply
+Vetor de Movimento: 886 92 162
+Diferencial: 426 63 13
+
+6-9-1.ply
+Vetor de Movimento: 71 365 253
+Diferencial: 355 302 240
+
+1-10-1.ply
+Vetor de Movimento: 135 783 455
+Diferencial: 135 783 455
+
+2-10-1.ply
+Vetor de Movimento: 349 452 809
+Diferencial: 214 331 354
+
+3-10-1.ply
+Vetor de Movimento: 932 652 215
+Diferencial: 718 321 139
+
+4-10-1.ply
+Vetor de Movimento: 680 909 250
+Diferencial: 38 588 111
+
+5-10-1.ply
+Vetor de Movimento: 861 471 506
+Diferencial: 823 117 395
+
+6-10-1.ply
+Vetor de Movimento: 600 818 756
+Diferencial: 223 701 361
+
+1-11-1.ply
+Vetor de Movimento: 462 952 633
+Diferencial: 462 952 633
+
+2-11-1.ply
+Vetor de Movimento: 439 825 689
+Diferencial: 23 127 56
+
+3-11-1.ply
+Vetor de Movimento: 702 988 955
+Diferencial: 679 861 899
+
+4-11-1.ply
+Vetor de Movimento: 852 289 537
+Diferencial: 173 572 362
+
+5-11-1.ply
+Vetor de Movimento: 514 103 414
+Diferencial: 341 469 52
+
+6-11-1.ply
+Vetor de Movimento: 577 877 440
+Diferencial: 236 408 388
+
+1-12-1.ply
+Vetor de Movimento: 730 870 716
+Diferencial: 730 870 716
+
+2-12-1.ply
+Vetor de Movimento: 801 707 742
+Diferencial: 71 163 26
+
+3-12-1.ply
+Vetor de Movimento: 19 886 525
+Diferencial: 52 723 499
+
+4-12-1.ply
+Vetor de Movimento: 463 65 714
+Diferencial: 411 658 215
+
+5-12-1.ply
+Vetor de Movimento: 489 668 682
+Diferencial: 78 10 467
+
+2-13-1.ply
+Vetor de Movimento: 199 917 866
+Diferencial: 199 917 866
+
+3-13-1.ply
+Vetor de Movimento: 890 544 139
+Diferencial: 691 373 727
+
+4-13-1.ply
+Vetor de Movimento: 450 990 215
+Diferencial: 241 617 512
+
+3-14-1.ply
+Vetor de Movimento: 446 316 515
+Diferencial: 446 316 515
+
+4-14-1.ply
+Vetor de Movimento: 882 440 467
+Diferencial: 436 124 48
+
+3-0-2.ply
+Vetor de Movimento: 807 365 211
+Diferencial: 807 365 211
+
+4-0-2.ply
+Vetor de Movimento: 1000 153 631
+Diferencial: 193 212 420
+
+3-1-2.ply
+Vetor de Movimento: 616 0 0
+Diferencial: 616 0 0
+
+4-1-2.ply
+Vetor de Movimento: 774 728 319
+Diferencial: 158 728 319
+
+3-2-2.ply
+Vetor de Movimento: 418 683 681
+Diferencial: 418 683 681
+
+4-2-2.ply
+Vetor de Movimento: 205 837 709
+Diferencial: 213 154 28
+
+5-2-2.ply
+Vetor de Movimento: 829 94 81
+Diferencial: 616 60 53
+
+3-3-2.ply
+Vetor de Movimento: 764 630 214
+Diferencial: 764 630 214
+
+4-3-2.ply
+Vetor de Movimento: 213 81 389
+Diferencial: 551 549 175
+
+5-3-2.ply
+Vetor de Movimento: 953 948 390
+Diferencial: 402 399 215
+
+3-4-2.ply
+Vetor de Movimento: 269 692 284
+Diferencial: 269 692 284
+
+4-4-2.ply
+Vetor de Movimento: 777 784 422
+Diferencial: 508 92 138
+
+3-5-2.ply
+Vetor de Movimento: 282 194 11
+Diferencial: 282 194 11
+
+4-5-2.ply
+Vetor de Movimento: 192 984 244
+Diferencial: 90 790 233
+
+2-6-2.ply
+Vetor de Movimento: 820 136 398
+Diferencial: 820 136 398
+
+3-6-2.ply
+Vetor de Movimento: 601 177 829
+Diferencial: 219 41 431
+
+4-6-2.ply
+Vetor de Movimento: 157 988 257
+Diferencial: 62 947 174
+
+5-6-2.ply
+Vetor de Movimento: 233 101 219
+Diferencial: 171 846 45
+
+2-7-2.ply
+Vetor de Movimento: 635 696 795
+Diferencial: 635 696 795
+
+4-7-2.ply
+Vetor de Movimento: 696 753 670
+Diferencial: 61 57 125
+
+5-7-2.ply
+Vetor de Movimento: 634 56 598
+Diferencial: 573 1 473
+
+2-8-2.ply
+Vetor de Movimento: 227 319 700
+Diferencial: 227 319 700
+
+4-8-2.ply
+Vetor de Movimento: 117 763 526
+Diferencial: 110 444 174
+
+5-8-2.ply
+Vetor de Movimento: 554 588 329
+Diferencial: 444 144 155
+
+1-9-2.ply
+Vetor de Movimento: 703 143 161
+Diferencial: 703 143 161
+
+2-9-2.ply
+Vetor de Movimento: 485 861 814
+Diferencial: 218 718 653
+
+4-9-2.ply
+Vetor de Movimento: 557 739 316
+Diferencial: 339 21 337
+
+5-9-2.ply
+Vetor de Movimento: 135 529 311
+Diferencial: 204 508 26
+
+6-9-2.ply
+Vetor de Movimento: 588 518 431
+Diferencial: 384 10 405
+
+1-10-2.ply
+Vetor de Movimento: 259 370 393
+Diferencial: 259 370 393
+
+2-10-2.ply
+Vetor de Movimento: 447 476 388
+Diferencial: 188 106 5
+
+4-10-2.ply
+Vetor de Movimento: 279 78 370
+Diferencial: 91 28 365
+
+5-10-2.ply
+Vetor de Movimento: 254 672 676
+Diferencial: 163 644 311
+
+6-10-2.ply
+Vetor de Movimento: 514 729 721
+Diferencial: 351 85 410
+
+7-10-2.ply
+Vetor de Movimento: 945 461 941
+Diferencial: 594 376 531
+
+1-11-2.ply
+Vetor de Movimento: 321 460 517
+Diferencial: 321 460 517
+
+2-11-2.ply
+Vetor de Movimento: 662 402 606
+Diferencial: 341 58 89
+
+4-11-2.ply
+Vetor de Movimento: 987 150 670
+Diferencial: 646 92 581
+
+5-11-2.ply
+Vetor de Movimento: 344 542 523
+Diferencial: 302 450 58
+
+6-11-2.ply
+Vetor de Movimento: 830 14 274
+Diferencial: 528 436 216
+
+1-12-2.ply
+Vetor de Movimento: 643 546 918
+Diferencial: 643 546 918
+
+2-12-2.ply
+Vetor de Movimento: 266 971 246
+Diferencial: 377 425 672
+
+3-12-2.ply
+Vetor de Movimento: 844 694 456
+Diferencial: 467 269 216
+
+4-12-2.ply
+Vetor de Movimento: 817 22 160
+Diferencial: 350 247 56
+
+5-12-2.ply
+Vetor de Movimento: 707 708 437
+Diferencial: 357 461 381
+
+2-13-2.ply
+Vetor de Movimento: 583 752 992
+Diferencial: 583 752 992
+
+3-13-2.ply
+Vetor de Movimento: 696 279 754
+Diferencial: 113 473 238
+
+4-13-2.ply
+Vetor de Movimento: 171 4 496
+Diferencial: 58 469 258
+
+3-14-2.ply
+Vetor de Movimento: 79 163 904
+Diferencial: 79 163 904
+
+4-14-2.ply
+Vetor de Movimento: 783 747 436
+Diferencial: 704 584 468
+
+5-14-2.ply
+Vetor de Movimento: 6 585 518
+Diferencial: 698 1 50
+
+3-0-3.ply
+Vetor de Movimento: 66 544 390
+Diferencial: 66 544 390
+
+4-0-3.ply
+Vetor de Movimento: 216 386 627
+Diferencial: 150 158 237
+
+3-1-3.ply
+Vetor de Movimento: 659 710 539
+Diferencial: 659 710 539
+
+4-1-3.ply
+Vetor de Movimento: 280 816 372
+Diferencial: 379 106 167
+
+3-2-3.ply
+Vetor de Movimento: 686 310 9
+Diferencial: 686 310 9
+
+4-2-3.ply
+Vetor de Movimento: 103 521 776
+Diferencial: 583 211 767
+
+3-3-3.ply
+Vetor de Movimento: 220 55 70
+Diferencial: 220 55 70
+
+4-3-3.ply
+Vetor de Movimento: 160 724 297
+Diferencial: 60 669 227
+
+3-4-3.ply
+Vetor de Movimento: 50 478 457
+Diferencial: 50 478 457
+
+4-4-3.ply
+Vetor de Movimento: 520 446 150
+Diferencial: 470 32 307
+
+3-5-3.ply
+Vetor de Movimento: 286 834 696
+Diferencial: 286 834 696
+
+4-5-3.ply
+Vetor de Movimento: 578 681 331
+Diferencial: 292 153 365
+
+2-6-3.ply
+Vetor de Movimento: 57 987 542
+Diferencial: 57 987 542
+
+3-6-3.ply
+Vetor de Movimento: 1 857 29
+Diferencial: 56 130 513
+
+4-6-3.ply
+Vetor de Movimento: 377 490 576
+Diferencial: 321 360 63
+
+2-7-3.ply
+Vetor de Movimento: 739 680 536
+Diferencial: 739 680 536
+
+3-7-3.ply
+Vetor de Movimento: 35 122 974
+Diferencial: 704 558 438
+
+4-7-3.ply
+Vetor de Movimento: 188 351 614
+Diferencial: 516 207 176
+
+2-8-3.ply
+Vetor de Movimento: 608 126 553
+Diferencial: 608 126 553
+
+3-8-3.ply
+Vetor de Movimento: 954 357 838
+Diferencial: 346 231 285
+
+4-8-3.ply
+Vetor de Movimento: 975 259 251
+Diferencial: 629 28 34
+
+2-9-3.ply
+Vetor de Movimento: 424 813 898
+Diferencial: 424 813 898
+
+3-9-3.ply
+Vetor de Movimento: 244 761 695
+Diferencial: 180 52 203
+
+4-9-3.ply
+Vetor de Movimento: 452 263 666
+Diferencial: 272 211 463
+
+5-9-3.ply
+Vetor de Movimento: 116 209 113
+Diferencial: 156 2 350
+
+2-10-3.ply
+Vetor de Movimento: 547 6 176
+Diferencial: 547 6 176
+
+3-10-3.ply
+Vetor de Movimento: 599 432 82
+Diferencial: 52 426 94
+
+4-10-3.ply
+Vetor de Movimento: 688 375 837
+Diferencial: 636 51 743
+
+5-10-3.ply
+Vetor de Movimento: 123 974 29
+Diferencial: 513 923 714
+
+6-10-3.ply
+Vetor de Movimento: 80 494 770
+Diferencial: 433 429 56
+
+2-11-3.ply
+Vetor de Movimento: 934 250 360
+Diferencial: 934 250 360
+
+3-11-3.ply
+Vetor de Movimento: 769 500 750
+Diferencial: 165 250 390
+
+4-11-3.ply
+Vetor de Movimento: 672 682 757
+Diferencial: 507 432 367
+
+2-12-3.ply
+Vetor de Movimento: 36 230 221
+Diferencial: 36 230 221
+
+3-12-3.ply
+Vetor de Movimento: 563 653 617
+Diferencial: 527 423 396
+
+3-13-3.ply
+Vetor de Movimento: 371 225 233
+Diferencial: 371 225 233
+
+4-13-3.ply
+Vetor de Movimento: 653 166 744
+Diferencial: 282 59 511
+
+3-14-3.ply
+Vetor de Movimento: 159 47 662
+Diferencial: 159 47 662
+
+4-14-3.ply
+Vetor de Movimento: 125 950 484
+Diferencial: 34 903 178
+
+3-0-4.ply
+Vetor de Movimento: 621 914 17
+Diferencial: 621 914 17
+
+3-1-4.ply
+Vetor de Movimento: 594 722 497
+Diferencial: 594 722 497
+
+4-1-4.ply
+Vetor de Movimento: 53 442 519
+Diferencial: 541 280 22
+
+3-2-4.ply
+Vetor de Movimento: 772 65 443
+Diferencial: 772 65 443
+
+4-2-4.ply
+Vetor de Movimento: 978 468 329
+Diferencial: 206 403 114
+
+3-3-4.ply
+Vetor de Movimento: 446 744 205
+Diferencial: 446 744 205
+
+4-3-4.ply
+Vetor de Movimento: 171 372 940
+Diferencial: 275 372 735
+
+3-4-4.ply
+Vetor de Movimento: 965 255 70
+Diferencial: 965 255 70
+
+4-4-4.ply
+Vetor de Movimento: 123 526 160
+Diferencial: 842 271 90
+
+3-5-4.ply
+Vetor de Movimento: 518 105 842
+Diferencial: 518 105 842
+
+4-5-4.ply
+Vetor de Movimento: 368 424 327
+Diferencial: 150 319 515
+
+2-6-4.ply
+Vetor de Movimento: 714 577 872
+Diferencial: 714 577 872
+
+3-6-4.ply
+Vetor de Movimento: 759 837 700
+Diferencial: 45 260 172
+
+4-6-4.ply
+Vetor de Movimento: 389 936 606
+Diferencial: 344 676 434
+
+3-7-4.ply
+Vetor de Movimento: 362 540 455
+Diferencial: 362 540 455
+
+4-7-4.ply
+Vetor de Movimento: 402 240 83
+Diferencial: 40 300 372
+

@@ -1,0 +1,26 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 12
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+400 638 144 68 79 92
+400 639 144 66 78 93
+400 639 145 60 75 90
+401 638 144 68 79 93
+401 639 144 66 79 93
+401 639 145 58 74 90
+400 639 146 56 73 90
+401 639 146 59 75 92
+402 639 144 64 77 91
+402 639 145 60 75 90
+403 639 144 64 77 92
+404 639 144 67 78 93

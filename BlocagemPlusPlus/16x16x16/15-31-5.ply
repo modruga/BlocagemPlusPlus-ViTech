@@ -1,0 +1,34 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 20
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+246 496 80 103 108 116
+247 496 80 96 104 113
+248 496 80 78 91 106
+248 497 80 80 94 109
+249 496 80 69 89 106
+249 497 80 78 95 112
+250 496 80 71 91 109
+250 497 80 75 94 112
+251 496 80 71 91 109
+251 497 80 70 90 108
+252 496 80 69 90 108
+252 497 80 70 90 108
+253 496 80 70 89 107
+253 496 81 71 89 106
+253 497 80 71 89 106
+254 496 80 71 89 105
+254 496 81 73 90 105
+254 497 80 73 88 103
+255 496 81 81 95 109
+255 497 80 70 84 100

@@ -1,0 +1,25 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 11
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+271 450 222 44 73 116
+271 450 223 54 76 114
+271 451 222 47 75 115
+271 451 223 58 77 115
+271 454 223 59 82 122
+271 460 221 46 70 124
+271 461 221 43 70 126
+271 462 220 40 71 129
+271 462 221 50 77 127
+271 463 220 48 80 130
+271 463 221 50 78 126

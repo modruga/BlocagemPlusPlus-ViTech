@@ -1,0 +1,36 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 22
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+250 939 79 100 92 88
+251 938 79 100 92 87
+251 939 78 98 91 85
+251 939 79 99 92 87
+249 940 79 95 88 84
+251 941 77 93 88 83
+250 940 78 92 87 83
+250 941 78 93 88 83
+250 941 79 95 88 84
+251 940 79 100 92 87
+251 941 78 94 88 84
+252 938 79 102 94 89
+252 939 78 98 91 85
+252 939 79 101 93 88
+253 939 79 101 91 84
+252 941 77 94 88 83
+252 940 79 101 92 87
+252 941 78 95 88 84
+252 941 79 96 89 84
+253 941 78 98 89 85
+253 941 79 98 90 85
+254 941 79 105 94 87

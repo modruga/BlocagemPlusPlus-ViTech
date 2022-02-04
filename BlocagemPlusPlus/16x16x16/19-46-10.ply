@@ -1,0 +1,30 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 16
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+314 751 175 118 85 60
+315 751 175 120 85 63
+316 750 175 129 106 86
+316 751 175 120 91 70
+317 750 175 123 107 94
+317 751 174 117 87 66
+317 751 175 120 94 75
+318 749 175 105 103 107
+319 748 175 95 102 111
+319 749 175 96 96 102
+318 750 175 112 101 97
+318 751 174 124 93 72
+318 751 175 119 92 75
+319 750 174 129 106 85
+319 750 175 115 105 98
+319 751 174 136 103 78

@@ -1,0 +1,24 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 10
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+254 96 224 84 75 67
+254 96 225 88 78 69
+255 96 224 82 73 66
+255 96 225 84 75 67
+255 97 224 83 74 66
+255 97 225 87 76 68
+255 96 226 94 82 71
+255 96 227 95 84 74
+255 97 226 88 76 67
+255 98 224 84 74 65

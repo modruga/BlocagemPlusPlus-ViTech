@@ -1,0 +1,26 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 12
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+175 415 75 67 101 133
+175 413 77 47 89 121
+175 413 78 50 92 122
+175 413 79 49 93 124
+175 414 76 47 90 122
+175 414 77 60 96 126
+175 415 76 51 92 125
+175 415 77 59 99 130
+175 414 78 66 100 128
+175 414 79 58 96 125
+175 415 78 88 115 141
+175 415 79 74 108 137

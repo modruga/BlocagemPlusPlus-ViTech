@@ -1,0 +1,28 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 14
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+320 606 192 108 94 82
+320 606 193 112 98 85
+321 606 192 108 94 81
+321 606 193 112 97 85
+321 607 192 110 95 82
+321 607 193 114 99 86
+320 607 194 121 104 89
+320 607 195 129 110 92
+321 607 194 122 104 89
+322 607 192 107 94 82
+322 607 193 114 99 85
+323 607 192 110 96 85
+323 607 193 113 98 85
+322 607 194 119 102 88

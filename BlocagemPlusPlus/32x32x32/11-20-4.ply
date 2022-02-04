@@ -1,0 +1,28 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 14
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+352 643 128 107 126 159
+352 644 128 107 122 154
+352 645 128 96 112 145
+353 645 128 98 114 145
+352 646 128 100 115 145
+352 647 128 116 125 144
+353 646 128 101 115 144
+353 647 128 111 122 143
+354 647 128 102 115 140
+352 648 128 123 130 146
+352 649 128 121 129 144
+353 648 128 121 131 148
+353 649 128 126 134 151
+352 650 128 123 128 140

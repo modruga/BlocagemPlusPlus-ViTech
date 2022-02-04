@@ -1,0 +1,24 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 10
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+352 784 145 205 145 114
+352 785 144 206 145 115
+352 785 145 205 144 115
+353 784 144 206 148 114
+353 784 145 205 147 115
+353 785 144 207 147 115
+352 784 146 204 145 114
+352 786 144 206 145 114
+352 786 145 205 144 115
+354 784 144 208 151 117

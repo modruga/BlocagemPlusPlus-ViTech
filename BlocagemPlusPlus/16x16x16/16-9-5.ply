@@ -1,0 +1,31 @@
+ply
+format ascii 1.0
+comment Version 2, Copyright 2017, 8i Labs, Inc.
+comment frame_to_world_scale 0.179523
+comment frame_to_world_translation -45.2095 7.18301 -54.3561
+comment width 1023
+element vertex 17
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
+269 144 80 98 87 78
+269 144 81 98 87 78
+270 144 80 99 88 79
+270 144 81 98 87 78
+270 145 80 99 88 79
+271 144 81 98 87 78
+271 145 80 99 88 79
+271 145 81 99 87 78
+270 144 82 98 87 77
+270 144 83 97 86 77
+271 144 82 98 87 78
+271 144 83 98 87 77
+271 145 82 99 87 78
+271 145 83 99 87 77
+271 144 84 98 87 77
+271 144 85 98 87 77
+271 144 86 98 86 76
